@@ -1,0 +1,13 @@
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\obj\Debug\netcoreapp3.1\Address-Book.csprojAssemblyReference.cache
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\obj\Debug\netcoreapp3.1\Address-Book.AssemblyInfoInputs.cache
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\obj\Debug\netcoreapp3.1\Address-Book.AssemblyInfo.cs
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\obj\Debug\netcoreapp3.1\Address-Book.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\bin\Debug\netcoreapp3.1\Address-Book.exe
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\bin\Debug\netcoreapp3.1\Address-Book.deps.json
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\bin\Debug\netcoreapp3.1\Address-Book.runtimeconfig.json
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\bin\Debug\netcoreapp3.1\Address-Book.runtimeconfig.dev.json
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\bin\Debug\netcoreapp3.1\Address-Book.dll
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\bin\Debug\netcoreapp3.1\Address-Book.pdb
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\obj\Debug\netcoreapp3.1\Address-Book.dll
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\obj\Debug\netcoreapp3.1\Address-Book.pdb
+C:\Users\Crystal Elsey\workspace\CSharp\Address-Book\obj\Debug\netcoreapp3.1\Address-Book.genruntimeconfig.cache
